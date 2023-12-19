@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=walv3nLTJ5g&list=PLC5hLl1wqo43mqZtYkTDOaWFuHIsHQ
 https://github.com/jamesmontemagno/BlazorMauiApp1
 
 https://stackoverflow.com/questions/65419651/standalone-blazor-app-as-a-razor-class-library
+
+https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/razor-pages/ui-class.md
